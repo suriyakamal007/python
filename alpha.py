@@ -4,4 +4,4 @@ if n=='a' or n=='e' or n=='i' or n=='o' or n=='u' or n=='A' or n=='E' or n=='I' 
 elif n.isalpha():
   print("Consonant")
 else:
-    print("invalid")
+  print("invalid")

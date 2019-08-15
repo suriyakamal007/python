@@ -1,0 +1,11 @@
+num=int(input())
+renum=0
+r=0
+while(num!=0):
+    r=int(num%10)
+    num=int(num/10)
+    renum=(renum*10)+r
+if(num==renum):
+    print("yes")
+else:
+    print("no")

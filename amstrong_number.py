@@ -9,5 +9,5 @@ if temp == am:
     print("yes")  
 else:
     print("no")
-print(am)
+
 
